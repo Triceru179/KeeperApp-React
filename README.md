@@ -1,6 +1,6 @@
 # KepperApp-React
 
-##A simple note-taking clone of google notes made with React and Material UI.
+## A simple note-taking clone of google notes made with React and Material UI.
 
 This project was made by following the lessons from this Udemy <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">course</a>
 
